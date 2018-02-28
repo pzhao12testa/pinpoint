@@ -17,7 +17,6 @@ install:
 - $JAVA_7_HOME/bin/java -version
 - $JAVA_8_HOME/bin/java -version
 - mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V | grep -Fv '[copy'
-jdk: []
 language: java
 script:
 - touch /tmp/NOW
