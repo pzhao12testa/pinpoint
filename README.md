@@ -1,5 +1,5 @@
 ![Pinpoint](web/src/main/webapp/images/logo.png)
-
+test
 [![Build Status](https://travis-ci.org/naver/pinpoint.svg?branch=master)](https://travis-ci.org/naver/pinpoint)
 [![codecov](https://codecov.io/gh/naver/pinpoint/branch/master/graph/badge.svg)](https://codecov.io/gh/naver/pinpoint)
 
